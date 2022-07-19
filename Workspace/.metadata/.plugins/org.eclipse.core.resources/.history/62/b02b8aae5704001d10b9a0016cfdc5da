@@ -1,0 +1,62 @@
+package br.com.farmacia.test;
+
+import java.sql.SQLException;
+import java.util.ArrayList;
+
+import org.junit.Ignore;
+import org.junit.Test;
+
+import br.com.farmacia.DAO.ProdutoDAO;
+import br.com.farmacia.domain.Fornecedores;
+import br.com.farmacia.domain.Produtos;
+
+public class ProdutoDAOTeste {
+
+	@Test
+	@Ignore
+	public void salvar() throws SQLException {
+		Produtos p1 = new Produtos();
+		p1.setDescricao("SONRISAL");
+		p1.setQuantidade(500);
+		p1.setPreco(10.00);
+
+		Fornecedores f = new Fornecedores();
+		f.setCodigo(45);
+		p1.setFonecedores(f);
+
+		ProdutoDAO pdao = new ProdutoDAO();
+
+		pdao.salvar(p1);
+
+	}
+
+	@Test
+	@Ignore
+	public void listar() throws SQLException {
+
+		ProdutoDAO pdao = new ProdutoDAO();
+		ArrayList<Produtos> lista = pdao.listar();
+
+		for (Produtos p : lista) {
+			System.out.println("Código do Produto: " + p.getCodigo());
+			System.out.println("Descrição do Produto: " + p.getDescricao());
+			System.out.println("Quantidade do Produto: " + p.getQuantidade());
+			System.out.println("Preço do Produto: " + p.getPreco());
+			System.out.println("Código do Fornecedor: " + p.getFonecedores().getCodigo());
+			System.out.println("Descrição do Fornecedor: " + p.getFonecedores().getDescricao());
+			System.out.println("");
+		}
+
+	}
+
+	@Test
+	public void excluir() throws SQLException {
+
+		Produtos p = new Produtos();
+		p.setCodigo(3);
+
+		ProdutoDAO pdao = new ProdutoDAO();
+		pdao.excluir(p);
+	}
+
+}

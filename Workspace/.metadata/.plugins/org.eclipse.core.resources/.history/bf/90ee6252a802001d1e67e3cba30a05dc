@@ -1,0 +1,8 @@
+package br.com.farmacia.domain;
+
+public class produtos {
+	
+	private Long codigo;
+	private String descricao;
+
+}

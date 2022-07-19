@@ -1,0 +1,135 @@
+
+jul. 12, 2022 15:00:53.436 NEW SESSION
+jul. 12, 2022 15:00:53.436 [6300:9328:0712/150053.433:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 15:02:38.251 [5328:17188:0712/150238.250:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+jul. 12, 2022 15:08:10.48 [10048:14816:0712/150810.047:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 15:09:42.287 [12544:7256:0712/150942.287:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+jul. 12, 2022 15:16:42.744 [3092:12220:0712/151642.744:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 15:17:43.300 [3092:15640:0712/151743.299:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+jul. 12, 2022 15:53:55.06 NEW SESSION
+jul. 12, 2022 15:53:55.07 [16784:17204:0712/155355.005:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 15:53:56.340 [16784:17204:0712/155356.340:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 12, 2022 15:56:45.773 [15944:8988:0712/155645.772:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+jul. 12, 2022 15:58:11.555 [10400:12468:0712/155811.555:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 15:59:12.74 [10400:17400:0712/155912.073:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 12, 2022 16:02:49.213 [6316:10096:0712/160249.213:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:02:50.492 [6316:10096:0712/160250.491:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 12, 2022 16:02:54.291 [6316:10096:0712/160254.290:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://ntp.msn.com/edge/ntp?locale=pt-BR&title=Nova%20guia&dsp=1&sp=Bing&prerender=1
+jul. 12, 2022 16:03:49.729 [6316:13156:0712/160349.728:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 12, 2022 16:05:55.150 [6044:11948:0712/160555.149:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:05:56.426 [6044:11948:0712/160556.426:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 12, 2022 16:06:55.656 [6044:9144:0712/160655.655:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+jul. 12, 2022 16:11:45.758 NEW SESSION
+jul. 12, 2022 16:11:45.759 [17136:10264:0712/161145.757:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:12:57.720 [10600:13476:0712/161257.720:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+
+jul. 12, 2022 16:18:05.874 NEW SESSION
+jul. 12, 2022 16:18:05.874 [9160:2560:0712/161805.873:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:19:06.432 [9160:224:0712/161906.431:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 12, 2022 16:23:19.324 [9160:2560:0712/162319.324:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+
+jul. 12, 2022 16:29:19.385 NEW SESSION
+jul. 12, 2022 16:29:19.385 [12856:8800:0712/162919.383:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:30:26.130 [16868:6488:0712/163026.130:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:31:26.748 [16868:8124:0712/163126.747:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 12, 2022 16:32:44.627 [4364:4020:0712/163244.626:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:33:40.547 [13236:5716:0712/163340.547:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+
+jul. 12, 2022 16:34:48.924 NEW SESSION
+jul. 12, 2022 16:34:48.924 [17368:16788:0712/163448.922:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:38:31.533 [16476:18336:0712/163831.532:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:38:37.613 [16476:18336:0712/163837.612:ERROR:smartscreen_dns_resolver.cc(103)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://ntp.msn.com/edge/ntp?locale=pt-BR&title=Nova%20guia&dsp=1&sp=Bing&prerender=1
+
+jul. 12, 2022 16:42:43.671 NEW SESSION
+jul. 12, 2022 16:42:43.671 [11180:11992:0712/164243.667:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:42:46.781 [11180:11992:0712/164246.781:ERROR:processor_entity.cc(171)] Metadata has an exisiting server id that will be overwritten with the current update entity id.metadata server_id: 3997ee41-41dd-49fc-aece-fb6788875c65 update.entity.id: 3997ee41-41dd-49fc-aece-fb6788875c65
+jul. 12, 2022 16:42:47.25 [11180:11992:0712/164247.025:ERROR:device_event_log_impl.cc(214)] [16:42:47.025] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 12, 2022 16:42:47.29 [11180:11992:0712/164247.029:ERROR:device_event_log_impl.cc(214)] [16:42:47.028] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 12, 2022 16:43:44.198 [11180:12712:0712/164344.197:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 12, 2022 16:45:17.792 [5732:7140:0712/164517.791:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:45:21.103 [5732:7140:0712/164521.103:ERROR:device_event_log_impl.cc(214)] [16:45:21.103] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 12, 2022 16:45:21.107 [5732:7140:0712/164521.106:ERROR:device_event_log_impl.cc(214)] [16:45:21.107] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 12, 2022 16:53:45.591 [9728:15132:0712/165345.590:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 16:53:49.04 [9728:15132:0712/165349.004:ERROR:device_event_log_impl.cc(214)] [16:53:49.004] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 12, 2022 16:53:49.07 [9728:15132:0712/165349.007:ERROR:device_event_log_impl.cc(214)] [16:53:49.008] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 12, 2022 16:54:46.60 [9728:2436:0712/165446.059:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 12, 2022 17:02:50.661 [12140:8908:0712/170250.660:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 12, 2022 17:02:53.865 [12140:8908:0712/170253.865:ERROR:device_event_log_impl.cc(214)] [17:02:53.865] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 12, 2022 17:02:53.868 [12140:8908:0712/170253.868:ERROR:device_event_log_impl.cc(214)] [17:02:53.868] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 12, 2022 17:03:51.187 [12140:1184:0712/170351.186:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+jul. 13, 2022 17:16:32.99 NEW SESSION
+jul. 13, 2022 17:16:32.99 [5880:6472:0713/171632.096:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 13, 2022 17:16:35.26 [5880:6472:0713/171635.025:ERROR:processor_entity.cc(171)] Metadata has an exisiting server id that will be overwritten with the current update entity id.metadata server_id:  update.entity.id: d11f8930-2bed-4215-8700-8e3468ad567a
+jul. 13, 2022 17:16:35.159 [5880:6472:0713/171635.158:ERROR:device_event_log_impl.cc(214)] [17:16:35.158] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 13, 2022 17:16:35.162 [5880:6472:0713/171635.162:ERROR:device_event_log_impl.cc(214)] [17:16:35.162] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 13, 2022 17:19:06.786 [2568:4372:0713/171906.785:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 13, 2022 17:19:10.233 [2568:4372:0713/171910.232:ERROR:device_event_log_impl.cc(214)] [17:19:10.232] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 13, 2022 17:19:10.236 [2568:4372:0713/171910.236:ERROR:device_event_log_impl.cc(214)] [17:19:10.236] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 13, 2022 17:20:07.373 [2568:11412:0713/172007.373:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+jul. 14, 2022 09:18:55.941 NEW SESSION
+jul. 14, 2022 09:18:55.941 [6152:14472:0714/091855.939:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 09:19:56.551 [6152:3992:0714/091956.550:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 09:26:17.252 [6152:14472:0714/092617.250:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 09:26:47.326 [6152:14472:0714/092647.326:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 09:27:32.376 [6152:14472:0714/092732.375:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 09:28:00.567 [6152:14472:0714/092758.516:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 09:28:58.349 [6152:14472:0714/092858.348:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 09:36:25.460 [4944:7688:0714/093625.459:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 09:37:25.995 [4944:12744:0714/093725.994:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 11:44:45.537 [12856:3352:0714/114445.536:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 11:44:48.125 [12856:3352:0714/114448.124:ERROR:processor_entity.cc(171)] Metadata has an exisiting server id that will be overwritten with the current update entity id.metadata server_id:  update.entity.id: c4a955be-7cac-4178-b642-b774802b6508
+jul. 14, 2022 11:45:46.102 [12856:14344:0714/114546.102:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 12:27:52.805 [15288:13048:0714/122752.804:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 12:27:55.265 [15288:13048:0714/122755.264:ERROR:processor_entity.cc(171)] Metadata has an exisiting server id that will be overwritten with the current update entity id.metadata server_id:  update.entity.id: c0d416d2-5252-40cc-9ef9-e89441727cb5
+jul. 14, 2022 12:28:53.381 [15288:11596:0714/122853.380:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 12:40:24.120 [5564:7716:0714/124024.120:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 12:42:23.20 [8324:8292:0714/124223.020:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 12:43:23.544 [8324:12364:0714/124323.543:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 14:31:54.809 [9248:14692:0714/143154.808:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 14:31:56.136 [9248:14692:0714/143156.136:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 14:32:55.333 [9248:12560:0714/143255.332:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 14:35:00.140 [2328:14680:0714/143500.139:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 14:35:01.402 [2328:14680:0714/143501.402:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 14:36:00.618 [2328:2952:0714/143600.618:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 14:46:54.39 [4052:6684:0714/144654.039:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 14:46:55.322 [4052:6684:0714/144655.322:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 14:48:17.901 [4376:12628:0714/144817.900:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 14:49:18.527 [4376:5928:0714/144918.526:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 15:00:50.173 [8820:14192:0714/150050.173:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 15:01:50.665 [8820:11648:0714/150150.665:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 15:24:53.318 [8820:14192:0714/152453.318:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 16:24:03.546 [8820:14192:0714/162403.546:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+jul. 14, 2022 16:29:39.409 [16096:11576:0714/162939.408:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 16:29:42.627 [16096:11576:0714/162942.626:ERROR:device_event_log_impl.cc(214)] [16:29:42.626] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 14, 2022 16:29:42.630 [16096:11576:0714/162942.629:ERROR:device_event_log_impl.cc(214)] [16:29:42.629] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 14, 2022 16:30:07.383 [8244:8520:0714/163007.382:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 16:30:11.138 [8244:8520:0714/163011.137:ERROR:device_event_log_impl.cc(214)] [16:30:11.137] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 14, 2022 16:30:11.141 [8244:8520:0714/163011.140:ERROR:device_event_log_impl.cc(214)] [16:30:11.140] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 14, 2022 16:31:07.885 [8244:10272:0714/163107.884:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 17:19:38.245 Entity: line 1: parser error : Extra content at the end of the document
+jul. 14, 2022 17:19:38.246 
+jul. 14, 2022 17:19:38.246 ^
+jul. 14, 2022 17:19:38.247 [8244:5684:0714/171938.245:ERROR:encryption_keys_fetcher.cc(232)] Get keydata failed: Response Code (bogus on error): 400 Content-Length (bogus on error): 676 X-AFS-Tracking:  Server Status: SYNC_AUTH_ERROR
+jul. 14, 2022 17:26:53.944 [13016:2292:0714/172653.944:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 17:26:57.247 [13016:2292:0714/172657.246:ERROR:device_event_log_impl.cc(214)] [17:26:57.246] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 14, 2022 17:26:57.251 [13016:2292:0714/172657.250:ERROR:device_event_log_impl.cc(214)] [17:26:57.250] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 14, 2022 17:27:54.412 [13016:9936:0714/172754.412:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+jul. 14, 2022 17:30:01.481 [4344:3508:0714/173001.480:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 14, 2022 17:30:05.432 [4344:3508:0714/173005.431:ERROR:device_event_log_impl.cc(214)] [17:30:05.432] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 14, 2022 17:30:05.435 [4344:3508:0714/173005.435:ERROR:device_event_log_impl.cc(214)] [17:30:05.436] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 14, 2022 17:31:02.32 [4344:16332:0714/173102.031:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+
+jul. 18, 2022 12:09:55.732 NEW SESSION
+jul. 18, 2022 12:09:55.732 [5528:6796:0718/120955.729:ERROR:device_event_log_impl.cc(214)] [12:09:55.729] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 18, 2022 12:09:55.734 [5528:6796:0718/120955.733:ERROR:device_event_log_impl.cc(214)] [12:09:55.732] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 18, 2022 12:10:53.270 [5528:16348:0718/121053.270:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+jul. 18, 2022 12:15:56.942 NEW SESSION
+jul. 18, 2022 12:15:56.942 [7108:6252:0718/121556.940:ERROR:assistance_home_client.cc(23)] File path C:\Users\Leandro\AppData\Local\Microsoft\Edge\User Data\Default
+jul. 18, 2022 12:16:00.456 [7108:6252:0718/121600.455:ERROR:device_event_log_impl.cc(214)] [12:16:00.454] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 18, 2022 12:16:00.459 [7108:6252:0718/121600.459:ERROR:device_event_log_impl.cc(214)] [12:16:00.458] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+jul. 18, 2022 12:16:57.763 [7108:8820:0718/121657.762:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
